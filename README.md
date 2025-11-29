@@ -57,9 +57,12 @@ A régua pode ser movida livremente pela tela:
 
 5. Recomendações
 
-• Utilize a régua em conjunto com o cálculo de força ou vento da sua estratégia.
-• Ajuste o tamanho uma única vez para seu monitor.
-• Mantenha os drivers de vídeo atualizados para melhor experiência com overlays.
+• A régua foi criada como um apoio visual para que o usuário possa sobrepor um papel transparente (ou papel vegetal) sobre o monitor, traçar as marcações desejadas e utilizar a régua de forma totalmente externa, fixando o papel com uma pequena fita adesiva.
+• Essa abordagem garante que cada jogador tenha sua própria régua física personalizada, sempre na proporção correta para o seu monitor.
+• Ajuste a régua digital apenas para calibrar o tamanho da régua física que você irá utilizar.
+• Utilize a régua digital somente como ferramenta de medição e referência.
+• O tamanho ajustado é salvo automaticamente e pode ser recalibrado quando quiser.
+• Mantenha o Gunbound em modo janela ou janela sem borda para facilitar o alinhamento enquanto calibra seu papel.
 
 6. Sobre o projeto
 
